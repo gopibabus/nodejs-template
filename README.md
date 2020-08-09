@@ -16,6 +16,8 @@ This is the template for developing nodejs application
 
 > [🌐 Node.js with Eslint and Prettier](https://sourcelevel.io/blog/how-to-setup-eslint-and-prettier-on-node)
 
+> [🌐 Typescript + Node.js](https://khalilstemmler.com/blogs/typescript/node-starter-project/)
+
 <br>
 
 <img src="https://image.flaticon.com/icons/svg/3248/3248209.svg" alt="References" width="70" height="70">
