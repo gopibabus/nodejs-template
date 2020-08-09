@@ -1,0 +1,6 @@
+# Prevent eslint from forcing styles in the /node_modules files,
+# javascript files at the project root and in the typescript react env file.
+/*.js
+** / *. js
+node_modules
+build

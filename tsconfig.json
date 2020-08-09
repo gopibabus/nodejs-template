@@ -1,0 +1,16 @@
+{
+	/* Visit https://aka.ms/tsconfig.json to read more about this file */
+	"compilerOptions": {
+		"target": "es5",
+		"module": "commonjs",
+		"lib": ["es6"],
+		"allowJs": true,
+		"outDir": "build",
+		"rootDir": "src",
+		"strict": true,
+		"noImplicitAny": true,
+		"esModuleInterop": true,
+		"resolveJsonModule": true
+	},
+	"exclude": ["tests/**/*.test.ts"]
+}
