@@ -26,7 +26,7 @@ This is the template for developing nodejs application
 - [x] .editor.config
 - [x] eslint & Prettier
 - [x] jest
-- [ ] Project structure (Routes, Middleware, Services, Database, Configuration)
+- [x] Project structure (Routes, Middleware, Services, Database, Configuration)
 - [ ] Logging Errors
 - [ ] Database Configuration
 - [ ] Dependency Injection Container
