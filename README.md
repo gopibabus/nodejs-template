@@ -12,7 +12,7 @@ This is the template for developing nodejs application
 
 > [🌐 Node.js Scalability Problems](https://softwareontheroad.com/nodejs-scalability-issues)
 
-> [🌐 Node.js testign with Jest](https://www.robinwieruch.de/node-js-jest)
+> [🌐 Node.js testing with Jest](https://www.robinwieruch.de/node-js-jest)
 
 > [🌐 Node.js with Eslint and Prettier](https://sourcelevel.io/blog/how-to-setup-eslint-and-prettier-on-node)
 
